@@ -7,10 +7,11 @@
 
 
 * [index]()
-    * clustering  
+    
     * embedding
       * elmo 
       * Positive Instance Feature Aggregation (PIFA)
+    * clustering  
 * [match]()
     * bert  
 * [ranking]()
