@@ -13,7 +13,8 @@
     * clustering  
     
 * [match]()
-    * bert  
+    * bert
+    * fine-tuning  
     
 * [ranking]()
     * one-vs-all 
