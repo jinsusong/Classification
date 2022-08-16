@@ -2,6 +2,6 @@
 
 
 * [index]()
- *  
+  *  
 * [match]()
 * [ranking]()
