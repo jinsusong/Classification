@@ -4,6 +4,10 @@
 
 
 
+# 관련 연구 
+* [Navie bayes]()
+* [Random forest]()
+* [BERT]()
 
 
 * [index]()    
