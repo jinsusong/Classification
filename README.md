@@ -12,7 +12,8 @@
 
 * [index]()    
     * embedding
-      * elmo 
+      * elmo : 언어 모델로 하는 임베딩
+         * 임베딩 과정
       * Positive Instance Feature Aggregation (PIFA)
     * clustering  
     
